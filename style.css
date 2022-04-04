@@ -1,0 +1,85 @@
+*{
+  box-sizing: border-box;
+}
+body {
+  text-align: center;
+  margin: 0;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  background-color: #71dfe7;
+}
+
+.top-container img {
+  width: 600px;
+}
+.top-container {
+  padding-top: 60px;
+  background-color: #71dfe7;
+}
+.middle-container {
+  background-color: rgb(188, 249, 235);
+  height: 600px;
+  font-size: 26px;
+}
+.footer {
+  height: 400px;
+  background-color: #81e6ed;
+  padding: 10px 10px;
+}
+h1 {
+  color: white;
+  font-family: "Nanum Pen Script", cursive;
+  font-size: 60px;
+}
+h2 {
+  color: white;
+  font-family: "Nanum Pen Script", cursive;
+  font-size: 60px;
+  padding-top: 5%;
+}
+
+button {
+  width: 200px;
+  height: 60px;
+  border-radius: 10%;
+  border-style: none;
+  background-color: rgb(255, 51, 92);
+  color: white;
+  font-size: 20px;
+  margin-top: 10px;
+  font-family: 'Roboto', sans-serif;
+}
+button:hover{
+  background-color: rgb(219, 49, 83)
+}
+hr {
+  width: 200px;
+  border-style: dotted;
+  border-top-style: none;
+  border-width: 10px;
+  border-color: #74d6dd;
+  margin-top: 60px;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+
+}
+.table{
+  margin-top: 100px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+}
+
+.bailey{
+  color: rgb(255, 51, 92);
+  font-size: 20px;
+
+}
+
+.table-title{
+  padding-bottom: 20px;
+  
+}
